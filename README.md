@@ -1,2 +1,2 @@
-# cc-fraud-detection
+# ML Project
 Credit Card Fraud Detection
